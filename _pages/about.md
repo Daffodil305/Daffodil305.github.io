@@ -28,16 +28,16 @@ Cai Zhiwei, Pursuing a Master's degree at Three Gorges University(2024), obtaine
 - **Big Touch Growing Up**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* National New Patent CN202120168359.5. 
+- *2021* The 12th Blue Bridge Cup National Third Prize.
+- *2020* The 11th Blue Bridge Cup Hubei Province First Prize
 
 # 📖 Educations
 - *2024.09 -  (now)*, Pursuing a Master's degree, Three Gorges University, China
 - *2019.09 - 2023.06*, Bachelor's degree, Three Gorges University, Yichang, China
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *None*
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *None*
