@@ -31,6 +31,8 @@ Cai Zhiwei, Pursuing a Master's degree at Three Gorges University(2024), obtaine
 - *2022* National New Patent CN202120168359.5. 
 - *2021* The 12th Blue Bridge Cup National Third Prize.
 - *2020* The 11th Blue Bridge Cup Hubei Province First Prize
+- *2020* Computer Level 3 Certificate
+- *2022* Intermediate Software Designer Certificate
 
 # 📖 Educations
 - *2024.09 -  (now)*, Pursuing a Master's degree, Three Gorges University, China
