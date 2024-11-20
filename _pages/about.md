@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Cai Zhiwei, Pursuing a Master's degree at Three Gorges University(2024), obtained a Bachelor's degree in Computer Science and Technology from Three Gorges University  in 2023(CTGU, 2019-2023).
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
