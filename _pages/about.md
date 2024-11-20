@@ -33,6 +33,7 @@ Cai Zhiwei, Pursuing a Master's degree at Three Gorges University(2024), obtaine
 - *2020* The 11th Blue Bridge Cup Hubei Province First Prize
 - *2020* Computer Level 3 Certificate
 - *2022* Intermediate Software Designer Certificate
+- *2024* China post-graduate mathematical contest in modeling National First Prize
 
 # 📖 Educations
 - *2024.09 -  (now)*, Pursuing a Master's degree, Three Gorges University, China
